@@ -1,4 +1,4 @@
-# Trikoder OAuth 2 Bundle
+# Trikoder OAuth 2 Bundle Experimental ( do not use in production )
 
 [![Build Status](https://github.com/trikoder/oauth2-bundle/workflows/Tests/badge.svg?branch=v3.x)](https://github.com/trikoder/oauth2-bundle/actions)
 [![Latest Stable Version](https://poser.pugx.org/trikoder/oauth2-bundle/v/stable)](https://packagist.org/packages/trikoder/oauth2-bundle)
